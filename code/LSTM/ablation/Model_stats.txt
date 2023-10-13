@@ -1,0 +1,5 @@
+Best of     MAPE    R^2
+hmotemp:    1.391   0.991
+hmotemplw:  1.351   0.989
+hmotempsw:  1.351   0.991
+swlwwind:   1.629   0.986
