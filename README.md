@@ -2,7 +2,7 @@
 
 Multiple ML models are implemented for ERCOT short-term load forecasting, using weather and time features.
 
-### ML Models:
+## ML Models:
 * Fully-connected neural network (FCNN)
 * Support vector machine (SVM)
 * Long short-term memory (LSTM)
@@ -11,7 +11,7 @@ Multiple ML models are implemented for ERCOT short-term load forecasting, using 
 Multiple variations of the above ML models are trained and evaluated.
 
 
-### Input Features:
+## Input Features:
 * Weather information
 	* temperature
 	* long-wave radiation
@@ -23,7 +23,7 @@ Multiple variations of the above ML models are trained and evaluated.
 	* month-of-the-year
 
 
-### Data Sources:
+## Data Sources:
 Raw ERCOT load data are from ERCOT website: https://www.ercot.com/
 
 Raw weather data are from the Phase 2 of the North American Lan Data Assimilation System (NLDAS-2).
@@ -31,7 +31,7 @@ Raw weather data are from the Phase 2 of the North American Lan Data Assimilatio
 Please refer to the paper below for more details about the data sources.
 
 
-### Reference:
+## Reference:
 Initial reference codes: https://rpglab.github.io/resources/ML-Price-Prdctn/
 
 
